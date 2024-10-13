@@ -1,0 +1,33 @@
+body{
+    background:#99ccff;
+    }
+    #container
+    {
+    background:white;
+    margin-top:150px;
+    margin-left:35%;
+    width:420px;
+    
+    }
+    h2{
+    text-align:center;
+    }
+    ul{
+    list-style-type:none;
+    padding:5px;
+    }
+    ul li{
+    padding:2px;
+    }
+    button{
+    
+    margin-top:15px;
+    width:100%;
+    background:#9900ff;
+    color:white;
+    }
+    button:hover
+    {
+    background:#ff00ff;
+    }
+   
